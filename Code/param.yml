@@ -1,0 +1,23 @@
+LAM0_PRIOR: 0.
+LAM1_PRIOR: 0.
+
+ETA_INIT: 1.5
+ETA_BETA: 1.01
+
+SAVE_CKPT: True
+DEBUG: False
+file_name: 'saved_models'
+plots_file: 'plots'
+
+MIN_ACC: 40
+MIN_FAIRLOSS: 50
+
+LR : 0.01
+NUM_EPOCHS : 80
+NUM_INNER : 1
+AGENT_EPOCHS: 2
+
+MODEL_ : 'resnet18'
+SHUFFLE_ : True
+
+NUM_AGENTS: 50
