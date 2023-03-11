@@ -13,3 +13,9 @@ model(s) to improve the accuracy and fairness trade-off.
 - Torchvision
 - sklearn
 - Matplotlib
+
+## Code Files
+- `data_loader.py` loads train and test datasets into different data loaders to facilitate Federated Learning
+- `DH_data_loader.py` loads datasets into different data loaders while maintaining Data Heterogeneity setting
+- `healper.py` has helper functions to calculate and plot the results 
+- `param.yml` sets parameters for the model
