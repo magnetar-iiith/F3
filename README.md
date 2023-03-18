@@ -19,3 +19,11 @@ model(s) to improve the accuracy and fairness trade-off.
 - `DH_data_loader.py` loads datasets into different data loaders while maintaining Data Heterogeneity setting
 - `healper.py` has helper functions to calculate and plot the results 
 - `param.yml` sets parameters for the model
+
+## Citation
+@inproceedings{kanaparthy2023f3,
+  title={F3: Fair and Federated Face Attribute Classification with Heterogeneous Data},
+  author={Kanaparthy, Samhita and Padala, Manisha and Damle, Sankarshan and Sarvadevabhatla, Ravi Kiran and Gujar, Sujit},
+  booktitle={The 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)},
+  year={2023}
+}
