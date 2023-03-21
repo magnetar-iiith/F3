@@ -1,4 +1,4 @@
-# F3: Fair and Federated Face Attribute Classification with Heterogeneous Data
+# F3: Fair and Federated Face Attribute Classification with Heterogeneous Data [PAKDD '23]
 
 In this paper, we study Fair Face Attribute Classification (FAC) problem in FL under data heterogeneity. We introduce F3, a FL framework for Fair Face Attribute Classification. Under the F3 framework, we propose two different methodologies (i) Heuristic-based F3 and (ii) Gradient-based F3.
 
