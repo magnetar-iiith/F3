@@ -6,6 +6,7 @@ In this paper, we study Fair Face Attribute Classification (FAC) problem in FL u
 model(s) to improve the accuracy and fairness trade-off.
 - Gradient-based F3 introduces FairGrad, where the client training is modified to include fairness through gradients communicated by the aggregator, to train a fair and accurate global model.
 
+
 Heuristic-based F3            |  Gradient-based F3
 :-------------------------:|:-------------------------:
 ![Heuristic-based F3](Paper/HF3.png)  |  ![Gradient-based F3](Paper/GF3.png)
